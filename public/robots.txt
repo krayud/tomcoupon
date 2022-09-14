@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cp/
+Disallow: /office/
+Disallow: /payment-fail
+Disallow: /payment-success
+
+Sitemap: https://tomcoupon.ru/sitemap.xml
