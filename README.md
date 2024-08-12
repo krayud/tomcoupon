@@ -2,6 +2,10 @@
 
 ## Project setup
 ```
+nvm use v14.20.0
+```
+
+```
 npm install
 ```
 
